@@ -1,0 +1,20 @@
+*
+.sammy{
+    background-image: url(./sammysan.jpg);
+    width: 90px;
+    width: 100%;
+    
+}
+.shuruma{
+    background-color: gray;
+    background-size: cover;
+    min-width: 100px;
+    min-height: 100px;
+}
+.sam{
+   background-color: skyblue;
+   background-size: cover;
+   
+}
+
+
